@@ -10,10 +10,17 @@ Time to unleash a chaotic crowd of Pac-Men by running the page, and then clickin
 • Added new button "Freeze All" to stop all Pac-Men at once
 
 ## How to run
-[list how to run here]
+• Run https://tylerthejester.github.io/PacMen-Exercise/ in your browser <br />
+• Click "Add Pac-Man" to add a Pac-Man, you can add as many Pac-Men as you would like <br />
+• Click "Start Game" to make the Pac-Men run, you can accelerate the Pac-Men by continue clicking the same button <br />
+• Click "Freeze One" to stop one Pac-Man at a time <br />
+• Click "Freeze All" to stop all Pac-Men at once
 
 ## Roadmap of future improvements
-[list roadmap here]
+• Add a frame below the buttons so the page will look cleaner <br />
+• Make the Pac-Men running only within the frame <br />
+• Add "Pac-Men" title above the frame <br />
+• Add dots so Pac-Men can eat
 
 ## License
 

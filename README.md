@@ -18,7 +18,7 @@ Time to unleash a chaotic crowd of Pac-Men by running the page, and then clickin
 
 ## Roadmap of future improvements
 • Add a frame below the buttons so the page will look cleaner <br />
-• Make the Pac-Men running only within the frame <br />
+• Make Pac-Men run only within the frame <br />
 • Add "Pac-Men" title above the frame <br />
 • Add dots so Pac-Men can eat
 

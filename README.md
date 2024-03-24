@@ -2,11 +2,12 @@
 
 ## Description
 
-[description]
+Time to unleash a chaotic crowd of Pac-Men by running the page, and then clicking the "Add Pac-Man" and "Start Game" buttons. If you feel overwhelmed by the Pac-Men frenzy, you can click "Freeze One" or "Freeze All" to stop them.
 
 ### Improvements
-
-[list improvements here]
+• Updated new colors to match Pac-Men color palette <br />
+• Added new button "Freeze One" to stop one Pac-Man from moving <br />
+• Added new button "Freeze All" to stop all Pac-Men at once
 
 ## How to run
 [list how to run here]

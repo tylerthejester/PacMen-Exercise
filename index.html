@@ -1,11 +1,16 @@
 <html>
 <head>
     <script src="./pacmen.js" ></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 </head>
 
 <style>
     body {
         background-color: #111111;
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
     }
     button {
         background-color: #111111;
@@ -13,6 +18,11 @@
         padding: 25px;
         border: 2.5px solid #1414F0;
         border-radius: 10px;
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 14px;
     }
     button:hover {
         background-color: #F0DC14;
@@ -24,12 +34,26 @@
     .button-2 {
         margin-left: 25px;
     }
+    .link-button {
+        background-color: #111111;
+        color: #FFFFFF;
+        padding: 25px;
+        border: 2.5px solid #1414F0;
+        border-radius: 10px;
+        text-decoration: none;
+        font-size: 14px;
+    }
+    .link-button:hover {
+        background-color: #F0DC14;
+        color: #111111;
+    }
 </style>
 
 <body>
     <div id='game'>
         <button onclick='makeOne()' width='200' height='30'>Add PacMan</button>
         <button onclick='update()' width='200' height='30' class="button-2">Start Game</button>
+        <a href="https://tylerthejester.github.io/PacMen-Exercise/" target="_blank" class="link-button button-2">Reset</a>
     </div>
 </body>
 

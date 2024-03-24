@@ -1,7 +1,6 @@
 # PacMen-Exercise
 
 ## Description
-
 Time to unleash a chaotic crowd of Pac-Men by running the page, and then clicking the "Add Pac-Man" and "Start Game" buttons. If you feel overwhelmed by the Pac-Men frenzy, you can click "Freeze One" or "Freeze All" to stop them.
 
 ### Improvements

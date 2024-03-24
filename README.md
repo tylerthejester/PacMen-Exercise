@@ -1,14 +1,17 @@
 # PacMen-Exercise
 
 ## Description
+
 Time to unleash a chaotic crowd of Pac-Men by running the page, and then clicking the "Add Pac-Man" and "Start Game" buttons. If you feel overwhelmed by the Pac-Men frenzy, you can click "Freeze One" or "Freeze All" to stop them.
 
 ### Improvements
+
 • Updated new colors to match Pac-Men color palette <br />
 • Added new button "Freeze One" to stop one Pac-Man from moving <br />
 • Added new button "Freeze All" to stop all Pac-Men at once
 
 ## How to run
+
 • Run https://tylerthejester.github.io/PacMen-Exercise/ in your browser <br />
 • Click "Add Pac-Man" to add a Pac-Man, you can add as many Pac-Men as you would like <br />
 • Click "Start Game" to make the Pac-Men run, you can accelerate the Pac-Men by continue clicking the same button <br />
@@ -16,6 +19,7 @@ Time to unleash a chaotic crowd of Pac-Men by running the page, and then clickin
 • Click "Freeze All" to stop all Pac-Men at once
 
 ## Roadmap of future improvements
+
 • Add a frame below the buttons so the page will look cleaner <br />
 • Make Pac-Men run only within the frame <br />
 • Add "Pac-Men" title above the frame <br />

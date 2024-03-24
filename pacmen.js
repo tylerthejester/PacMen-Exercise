@@ -14,7 +14,7 @@ function setToRandom(scale) {
         x: Math.random() * scale, y: Math.random() * scale
     }
 }
-// Factory to make a PacMan 
+// Factory to make a Pac-Man 
 function makePac() {
     // returns an object with values scaled {x: 33, y: 21}
     let velocity = setToRandom(10);
@@ -49,7 +49,7 @@ function update() {
 }
 
 function switchImg() {
-    //loop over pacmen array and move each one and move image in DOM
+    //loop over pacMen array and move each one and move image in DOM
     pacMen.forEach((item) => {
         
         // Switching between images for mouth opening and closing
@@ -79,7 +79,15 @@ function checkCollisions(item) {
 }
 
 function makeOne() {
-    pacMen.push(makePac()); // add a new PacMan
+    pacMen.push(makePac()); // add a new Pac-Man
+}
+
+function freezeOne() {
+    pacMen.pop(); // freeze one Pac-Man
+}
+
+function freezeAll() {
+    pacMen.splice(0, pacMen.length); // freeze all Pac-Men
 }
 
 // Timer for opening and closing mouth
